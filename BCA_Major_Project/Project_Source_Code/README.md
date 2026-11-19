@@ -1,5 +1,5 @@
 
-Hey MOM! is an intuitive mobile app built for new and experienced parents alike. It centralizes essential baby care routines — from feeding and sleep tracking to vaccination reminders — all in one place. With smart integrations like Google Maps and real-time weather suggestions, Hey MOM! goes beyond a simple tracker to become a complete care companion.
+Hey MOM! is an intuitive mobile app built for new and experienced parents alike. It centralizes essential baby care routines - from feeding and sleep tracking to vaccination reminders - all in one place. With smart integrations like Google Maps and real-time weather suggestions, Hey MOM! goes beyond a simple tracker to become a complete care companion.
 
 ---
 
