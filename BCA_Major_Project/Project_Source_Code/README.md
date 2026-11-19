@@ -36,7 +36,7 @@ Hey MOM! is an intuitive mobile app built for new and experienced parents alike.
 
 ### 🎨 Simple & Intuitive UI
 - Clean, parent-friendly interface designed for quick access
-- Minimal learning curve — usable even during sleepless nights
+- Minimal learning curve - usable even during sleepless nights
 - Accessible design with readable fonts and clear visual hierarchy
 - Soft color palette to reduce eye strain
 
