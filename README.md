@@ -17,8 +17,11 @@ If you are new to programming, feel free to browse through the folders to get a 
 ## STUDENT DETAILS
 
 Name       : Anshuman Sarma
+
 Course     : Bachelor of Computer Applications (BCA)
+
 University : Assam Don Bosco University
+
 
 \---
 
