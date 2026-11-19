@@ -16,8 +16,11 @@ The contents are organized by programming language and subject area for easy ref
 STUDENT DETAILS
 
 Name       : Anshuman Sarma
+
 Course     : Bachelor of Computer Applications (BCA)
+
 University : Assam Don Bosco University
+
 Duration   : 2022-2025
 
 ------------------------------------------------------------
