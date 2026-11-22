@@ -12,22 +12,19 @@ I have organized the materials so I can easily revisit topics, refresh my progra
 
 If you are new to programming, feel free to browse through the folders to get a glimpse of the languages, concepts, tools, and types of projects you may come across while learning computer applications.
 
-\---
+---
 
 ## STUDENT DETAILS
 
-Name       : Anshuman Sarma
-
-Course     : Bachelor of Computer Applications (BCA)
-
+Name       : Anshuman Sarma  
+Course     : Bachelor of Computer Applications (BCA)  
 University : Assam Don Bosco University
 
-
-\---
+---
 
 ## EXPLORE THE COLLECTION
 
-### 1\. BCA\_Major\_Project
+### 1. BCA_Major_Project
 
 **Project Title:** Hey Mom!: A Childcare Assistant App for New Mothers
 
@@ -40,7 +37,7 @@ The final semester major project. This folder contains:
 
 The project provides an example of an Android application developed using Kotlin and related mobile development tools.
 
-### 2\. BCA\_Mini\_Project
+### 2. BCA_Mini_Project
 
 **Project Title:** Comparative Analysis of Deep Learning Models for Bone Fracture Detection Using X-ray Images
 
@@ -54,7 +51,7 @@ The fifth semester mini project. This folder contains:
 
 This project offers an introduction to Python-based deep learning and the use of image data for classification.
 
-### 3\. Lab\_Programs
+### 3. Lab_Programs
 
 A collection of programming practicals and assignments, arranged by language or subject:
 
@@ -69,7 +66,7 @@ A collection of programming practicals and assignments, arranged by language or 
 
 You can use this section to revisit programming fundamentals, understand examples, and practise concepts across different languages.
 
-### 4\. Miscellaneous
+### 4. Miscellaneous
 
 A collection of additional records and experiences from my time as a BCA student, including:
 
@@ -78,7 +75,7 @@ A collection of additional records and experiences from my time as a BCA student
 
 This section keeps track of experiences beyond classroom learning and project work, including participation, achievement, and contributions to the community.
 
-### 5\. Service\_Learning
+### 5. Service_Learning
 
 Documentation of service learning activities conducted at Don Bosco Snehalaya, Paltan Bazar, Guwahati.
 
@@ -87,7 +84,11 @@ The activities include:
 * Digital awareness and cybersecurity (2023)
 * Digital literacy (2024)
 
-\---
+### 6. Academic_Records
+
+A collection of academic records, including semester-wise gradesheets, degree certificates, and academic transcripts, organized for easy reference.
+
+---
 
 ## WHO MAY FIND THIS USEFUL?
 
@@ -109,7 +110,7 @@ The activities include:
 * Explore different areas of computer applications at your own pace.
 * Use the examples as a starting point for further learning and practice.
 
-\---
+---
 
 ## HOW TO USE THIS LIBRARY
 
@@ -118,7 +119,7 @@ The activities include:
 3. Browse the source code, reports, presentations, or other materials.
 4. Try the programs yourself and make changes to understand how they work.
 
-\---
+---
 
 ## A FRIENDLY NOTE
 
@@ -133,4 +134,3 @@ And remember: **Service to humanity is service to God.**
 ==================================================
 
 END OF README
-
