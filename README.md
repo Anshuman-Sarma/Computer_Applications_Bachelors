@@ -86,7 +86,14 @@ The activities include:
 
 ### 6. Academic_Records
 
-A collection of academic records, including semester-wise gradesheets, degree certificates, and academic transcripts, organized for easy reference.
+A collection of academic records covering my educational journey, including:
+
+- Class 10 Secondary Education records
+- Class 12 Higher Secondary Education records
+- Semester-wise BCA grade sheets
+- Degree certificate and academic transcripts
+
+The documents are organized by educational level for easy reference.
 
 ---
 
